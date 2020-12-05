@@ -426,6 +426,8 @@ ul.profile-information li:before{
 
 ul.profile-information li span{
     color: #000;
+    display: block;
+    margin-bottom: 5px;
 }
 
 
