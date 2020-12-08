@@ -2,11 +2,6 @@
 /* Css Styles                        */
 /*---------------------------------- */
 
-/**
-	Mat - vCard Template
-	Author : Tavonline
-	Copyright 2017
-
 /* Table of Content
 ==================================================
 	
@@ -689,7 +684,7 @@ ul.timeline{
 
 .timeline li .line-title{
     font-size: 16px;
-    line-height: 6px;
+    line-height: 18px;
 }
 
 .timeline li:first-child{
@@ -1873,10 +1868,7 @@ footer .footer .copyright a:hover{
 
 
 }
-
-
-
-
-
-
-
+a[href="#portfolio"],
+a[href="#blog"]{
+    display: none;
+}
