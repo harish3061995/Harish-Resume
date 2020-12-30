@@ -1870,5 +1870,5 @@ footer .footer .copyright a:hover{
 }
 
 a[href="#blog"]{
-    display: none;
+    display: none !important;
 }
