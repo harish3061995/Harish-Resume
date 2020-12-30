@@ -35,7 +35,7 @@ body{
     background:#fafafa;
     overflow-x: hidden;
     position: relative;
-    background: url(../images/bg.png) #fafafa;
+    /* background: url(../images/bg.png) #fafafa; */
 }
 
 .geometric-shapes{
